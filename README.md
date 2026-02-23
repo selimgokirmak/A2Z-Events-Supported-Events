@@ -70,97 +70,133 @@ Supports multiple **A2Z Events** exhibition websites with a consistent HTML stru
 
 ### Type-1: Event Websites
 
-  - [Natural Products Expo West 2026 Exhibitor List – expowest26.smallworldlabs.com](https://expowest26.smallworldlabs.com/exhibitors)
+- [New York Restaurant Show 2026 Exhibitor List – irfs2026.smallworldlabs.com](https://irfs2026.smallworldlabs.com/exhibitors)
 
-  - [AFCEA TechNet Indo-Pacific 2026 Exhibitor List – tip26.myexpoonline.com](https://tip26.myexpoonline.com/exhibitors)
+- [(Be+Well) Beauty and Wellness show 2026 Exhibitor List – iecscibsny2026.smallworldlabs.com](https://iecscibsny2026.smallworldlabs.com/exhibitors)
 
-  - [WEST 2026 Exhibitor List – west26.myexpoonline.com](https://west26.myexpoonline.com/exhibitors)
+- [Abilities Expo New York Metro 2026 Exhibitor List – nymetro2026.smallworldlabs.com](https://nymetro2026.smallworldlabs.com/exhibitors)
 
-  - [ASCO Annual Meeting 2026 Exhibitor List – asco26.myexpoonline.com](https://asco26.myexpoonline.com/exhibitors)
+- [Abilities Expo Los Angeles 2026 Exhibitor List – la2026.smallworldlabs.com](https://la2026.smallworldlabs.com/exhibitors)
 
-  - [HR Tech Europe 2026 Exhibitor List – hrteurope2026.smallworldlabs.com](https://hrteurope2026.smallworldlabs.com/exhibitors)
+- [Abilities Expo Houston 2026 Exhibitor List – houston2026.smallworldlabs.com](https://houston2026.smallworldlabs.com/exhibitors)
 
-  - [Commodity Classic 2026 Exhibitor List – commodityclassic2026.smallworldlabs.com](https://commodityclassic2026.smallworldlabs.com/exhibitors)
+- [Abilities Expo Orlando 2026 Exhibitor List – ftlauderdale2026.smallworldlabs.com](https://ftlauderdale2026.smallworldlabs.com/exhibitors)
 
-  - [FABTECH 2026 Exhibitor List – fabtech2026.smallworldlabs.com](https://fabtech2026.smallworldlabs.com/exhibitors)
+- [Abilities Expo Chicago 2026 Exhibitor List – aechicago2026.smallworldlabs.com](https://aechicago2026.smallworldlabs.com/exhibitors)
 
-  - [Greenbuild 2026 Exhibitor List – gice2026.smallworldlabs.com](https://gice2026.smallworldlabs.com/exhibitors)
+- [Abilities Expo Phoenix 2026 Exhibitor List – phoenix2026.smallworldlabs.com](https://phoenix2026.smallworldlabs.com/exhibitors)
 
-  - [Warfare Symposium 2026 Exhibitor List – ws2026.smallworldlabs.com](https://ws2026.smallworldlabs.com/exhibitors)
+- [Abilities Expo Dallas 2026 Exhibitor List – aedallas2026.smallworldlabs.com](https://aedallas2026.smallworldlabs.com/exhibitors)
 
-  - [Air, Space & Cyber Conference 2026 Exhibitor List – asc2026.smallworldlabs.com](https://asc2026.smallworldlabs.com/exhibitors)
+- [Natural Products Expo West 2026 Exhibitor List – expowest26.smallworldlabs.com](https://expowest26.smallworldlabs.com/exhibitors)
 
-  - [Sports Licensing & Tailgate Show 2026 Exhibitor List – slats2026.smallworldlabs.com](https://slats2026.smallworldlabs.com/exhibitors)
+- [AFCEA TechNet Indo-Pacific 2026 Exhibitor List – tip26.myexpoonline.com](https://tip26.myexpoonline.com/exhibitors)
 
-  - [KBIS 2026 Exhibitor List – kbis2026.smallworldlabs.com](https://kbis2026.smallworldlabs.com/exhibitors)
+- [WEST 2026 Exhibitor List – west26.myexpoonline.com](https://west26.myexpoonline.com/exhibitors)
 
-  - [USCAP 2026 Exhibitor List – uscap2026.smallworldlabs.com](https://uscap2026.smallworldlabs.com/exhibitors)
+- [ASCO Annual Meeting 2026 Exhibitor List – asco26.myexpoonline.com](https://asco26.myexpoonline.com/exhibitors)
 
-  - [International Pizza Expo 2026 Exhibitor List – pizzaexpo2026.smallworldlabs.com](https://pizzaexpo2026.smallworldlabs.com/exhibitors)
+- [HR Tech Europe 2026 Exhibitor List – hrteurope2026.smallworldlabs.com](https://hrteurope2026.smallworldlabs.com/exhibitors)
 
-  - [SUPERZOO 2026 Exhibitor List – sz2026.smallworldlabs.com](https://sz2026.smallworldlabs.com/exhibitors)
+- [Commodity Classic 2026 Exhibitor List – commodityclassic2026.smallworldlabs.com](https://commodityclassic2026.smallworldlabs.com/exhibitors)
 
-  - [Bar & Restaurant Expo / World Tea Expo 2026 Exhibitor List – br2026.smallworldlabs.com](https://br2026.smallworldlabs.com/exhibitors)
+- [FABTECH 2026 Exhibitor List – fabtech2026.smallworldlabs.com](https://fabtech2026.smallworldlabs.com/exhibitors)
 
-  - [Coverings 2026 Exhibitor List – coverings2026.smallworldlabs.com](https://coverings2026.smallworldlabs.com/exhibitors)
+- [Greenbuild 2026 Exhibitor List – gice2026.smallworldlabs.com](https://gice2026.smallworldlabs.com/exhibitors)
 
-  - [Seafood Expo Asia 2025 Exhibitor List – exhibitors-sea.seafoodexpo.com](https://exhibitors-sea.seafoodexpo.com/exhibitors)
+- [Warfare Symposium 2026 Exhibitor List – ws2026.smallworldlabs.com](https://ws2026.smallworldlabs.com/exhibitors)
 
-  - [HR Tech Europe 2025 Exhibitor List – hrteurope2025.smallworldlabs.com](https://hrteurope2025.smallworldlabs.com/exhibitors)
+- [Air, Space & Cyber Conference 2026 Exhibitor List – asc2026.smallworldlabs.com](https://asc2026.smallworldlabs.com/exhibitors)
 
-  - [AFCEA TechNet Indo-Pacific 2025 Exhibitor List – tip25.myexpoonline.com](https://tip25.myexpoonline.com/exhibitors)
+- [Sports Licensing & Tailgate Show 2026 Exhibitor List – slats2026.smallworldlabs.com](https://slats2026.smallworldlabs.com/exhibitors)
 
-  - [Air, Space, & Cyber Conference 2025 Exhibitor List – asc2025.smallworldlabs.com](https://asc2025.smallworldlabs.com/exhibitors)
+- [KBIS 2026 Exhibitor List – kbis2026.smallworldlabs.com](https://kbis2026.smallworldlabs.com/exhibitors)
 
-  - [FABTECH 2025 Exhibitor List – fabtech2025.smallworldlabs.com](https://fabtech2025.smallworldlabs.com/exhibitors)
+- [USCAP 2026 Exhibitor List – uscap2026.smallworldlabs.com](https://uscap2026.smallworldlabs.com/exhibitors)
 
-  - [ASCO Annual Meeting 2025 Exhibitor List – asco25.myexpoonline.com](https://asco25.myexpoonline.com/exhibitors)
+- [International Pizza Expo 2026 Exhibitor List – pizzaexpo2026.smallworldlabs.com](https://pizzaexpo2026.smallworldlabs.com/exhibitors)
+
+- [SUPERZOO 2026 Exhibitor List – sz2026.smallworldlabs.com](https://sz2026.smallworldlabs.com/exhibitors)
+
+- [Bar & Restaurant Expo / World Tea Expo 2026 Exhibitor List – br2026.smallworldlabs.com](https://br2026.smallworldlabs.com/exhibitors)
+
+- [Coverings 2026 Exhibitor List – coverings2026.smallworldlabs.com](https://coverings2026.smallworldlabs.com/exhibitors)
+
+- [Seafood Expo Asia 2025 Exhibitor List – exhibitors-sea.seafoodexpo.com](https://exhibitors-sea.seafoodexpo.com/exhibitors)
+
+- [HR Tech Europe 2025 Exhibitor List – hrteurope2025.smallworldlabs.com](https://hrteurope2025.smallworldlabs.com/exhibitors)
+
+- [AFCEA TechNet Indo-Pacific 2025 Exhibitor List – tip25.myexpoonline.com](https://tip25.myexpoonline.com/exhibitors)
+
+- [Air, Space, & Cyber Conference 2025 Exhibitor List – asc2025.smallworldlabs.com](https://asc2025.smallworldlabs.com/exhibitors)
+
+- [FABTECH 2025 Exhibitor List – fabtech2025.smallworldlabs.com](https://fabtech2025.smallworldlabs.com/exhibitors)
+
+- [ASCO Annual Meeting 2025 Exhibitor List – asco25.myexpoonline.com](https://asco25.myexpoonline.com/exhibitors)
 
 
 ### Type-2: Floor Plan Websites
 
-  - [Sports Licensing & Tailgate Show 2026 Exhibitor List – slats.a2zinc.net/SLATS2026](https://slats.a2zinc.net/SLATS2026/public/eventmap.aspx)
+- [New York Restaurant Show 2026 Exhibitor List – s36.a2zinc.net/clients/GSE/IRFS2026](https://s36.a2zinc.net/clients/GSE/IRFS2026/Public/EventMap.aspx)
 
-  - [KBIS 2026 Exhibitor List – kbis.a2zinc.net/kbis2026](https://kbis.a2zinc.net/kbis2026/Public/eventmap.aspx)
+- [(Be+Well) Beauty and Wellness show 2026 Exhibitor List – s36.a2zinc.net/clients/questex/iecscibsny2026](https://s36.a2zinc.net/clients/questex/iecscibsny2026/Public/eventmap.aspx)
 
-  - [USCAP 115th Annual Meeting 2026 Exhibitor List – s36.a2zinc.net/clients/AIMUSA/USCAP2026](https://s36.a2zinc.net/clients/AIMUSA/USCAP2026/Public/EventMap.aspx)
+- [Abilities Expo New York Metro 2026 Exhibitor List – s15.a2zinc.net/clients/abilitiesexpo/NYMETRO2026](https://s15.a2zinc.net/clients/abilitiesexpo/NYMETRO2026/public/EventMap.aspx)
 
-  - [International Pizza Expo 2026 Exhibitor List – pizza.a2zinc.net/PizzaExpo2026](https://pizza.a2zinc.net/PizzaExpo2026/Public/eventmap.aspx)
+- [Abilities Expo Los Angeles 2026 Exhibitor List – s15.a2zinc.net/clients/abilitiesexpo/LA2026](https://s15.a2zinc.net/clients/abilitiesexpo/LA2026/public/EventMap.aspx)
 
-  - [SUPERZOO 2026 Exhibitor List – s23.a2zinc.net/clients/WPA/SZ2026](https://s23.a2zinc.net/clients/WPA/SZ2026/Public/EventMap.aspx)
+- [Abilities Expo Houston 2026 Exhibitor List – s15.a2zinc.net/clients/abilitiesexpo/houston2026](https://s15.a2zinc.net/clients/abilitiesexpo/houston2026/public/EventMap.aspx)
 
-  - [Coverings 2026 Exhibitor List – expo.coverings.com/Cov2026](https://expo.coverings.com/Cov2026/Public/EventMap.aspx)
+- [Abilities Expo Orlando 2026 Exhibitor List – s15.a2zinc.net/clients/abilitiesexpo/ftlauderdale2026](https://s15.a2zinc.net/clients/abilitiesexpo/ftlauderdale2026/public/EventMap.aspx)
 
-  - [Bar & Restaurant Expo / World Tea Expo 2026 Exhibitor List – s36.a2zinc.net/clients/questex/br2026](https://s36.a2zinc.net/clients/questex/br2026/Public/EventMap.aspx)
+- [Abilities Expo Chicago 2026 Exhibitor List – s15.a2zinc.net/clients/abilitiesexpo/chicago2026](https://s15.a2zinc.net/clients/abilitiesexpo/chicago2026/public/EventMap.aspx)
 
-  - [Natural Products Expo West 2026 Exhibitor List – exhibitor.expowest.com/ew26](https://exhibitor.expowest.com/ew26/Public/Eventmap.aspx)
+- [Abilities Expo Phoenix 2026 Exhibitor List – s15.a2zinc.net/clients/AbilitiesExpo/Phoenix2026](https://s15.a2zinc.net/clients/AbilitiesExpo/Phoenix2026/Public/eventmap.aspx)
 
-  - [ASCO Annual Meeting 2026 Exhibitor List Exhibitor List – events.jspargo.com/ASCO26](https://events.jspargo.com/ASCO26/Public/eventmap.aspx)
+- [Abilities Expo Dallas 2026 Exhibitor List – s15.a2zinc.net/clients/abilitiesexpo/dallas2026](https://s15.a2zinc.net/clients/abilitiesexpo/dallas2026/public/EventMap.aspx)
 
-  - [AFCEA TechNet Indo-Pacific 2026 Exhibitor List – events.afcea.org/TIP26](https://events.afcea.org/TIP26/Public/eventmap.aspx)
+- [Sports Licensing & Tailgate Show 2026 Exhibitor List – slats.a2zinc.net/SLATS2026](https://slats.a2zinc.net/SLATS2026/public/eventmap.aspx)
 
-  - [Air, Space & Cyber Conference 2026 Exhibitor List – events.ntpshow.com/asc2026](https://events.ntpshow.com/asc2026/public/EventMap.aspx)
+- [KBIS 2026 Exhibitor List – kbis.a2zinc.net/kbis2026](https://kbis.a2zinc.net/kbis2026/Public/eventmap.aspx)
 
-  - [Warfare Symposium 2026 Exhibitor List – events.ntpshow.com/ws2026](https://events.ntpshow.com/ws2026/Public/EventMap.aspx)
+- [USCAP 115th Annual Meeting 2026 Exhibitor List – s36.a2zinc.net/clients/AIMUSA/USCAP2026](https://s36.a2zinc.net/clients/AIMUSA/USCAP2026/Public/EventMap.aspx)
 
-  - [Greenbuild 2026 Exhibitor List – s23.a2zinc.net/clients/informaconnect/gice2026](https://s23.a2zinc.net/clients/informaconnect/gice2026/Public/EventMap.aspx)
+- [International Pizza Expo 2026 Exhibitor List – pizza.a2zinc.net/PizzaExpo2026](https://pizza.a2zinc.net/PizzaExpo2026/Public/eventmap.aspx)
 
-  - [FABTECH 2026 Exhibitor List – s36.a2zinc.net/clients/SME/FABTECH2026](https://s36.a2zinc.net/clients/SME/FABTECH2026/Public/Eventmap.aspx)
+- [SUPERZOO 2026 Exhibitor List – s23.a2zinc.net/clients/WPA/SZ2026](https://s23.a2zinc.net/clients/WPA/SZ2026/Public/EventMap.aspx)
 
-  - [Commodity Classic 2026 Exhibitor List – s15.a2zinc.net/clients/commodityclassic/2026](https://s15.a2zinc.net/clients/commodityclassic/2026/Public/eventmap.aspx)
+- [Coverings 2026 Exhibitor List – expo.coverings.com/Cov2026](https://expo.coverings.com/Cov2026/Public/EventMap.aspx)
 
-  - [WEST 2026 Exhibitor List – westconference.org/WEST26](https://www.westconference.org/WEST26/Public/eventmap.aspx)
+- [Bar & Restaurant Expo / World Tea Expo 2026 Exhibitor List – s36.a2zinc.net/clients/questex/br2026](https://s36.a2zinc.net/clients/questex/br2026/Public/EventMap.aspx)
 
-  - [HR Tech Europe 2026 Exhibitor List – events.hrtechnologyconference.com/hrteurope2026](https://events.hrtechnologyconference.com/hrteurope2026/Public/eventmap.aspx)
+- [Natural Products Expo West 2026 Exhibitor List – exhibitor.expowest.com/ew26](https://exhibitor.expowest.com/ew26/Public/Eventmap.aspx)
 
-  - [HR Tech Europe 2025 Exhibitor List – events.hrtechnologyconference.com/hrteurope2025](https://events.hrtechnologyconference.com/hrteurope2025/Public/eventmap.aspx)
+- [ASCO Annual Meeting 2026 Exhibitor List Exhibitor List – events.jspargo.com/ASCO26](https://events.jspargo.com/ASCO26/Public/eventmap.aspx)
 
-  - [Air, Space, & Cyber Conference 2025 Exhibitor List – events.ntpshow.com/asc2025/public](https://events.ntpshow.com/asc2025/public/EventMap.aspx)
+- [AFCEA TechNet Indo-Pacific 2026 Exhibitor List – events.afcea.org/TIP26](https://events.afcea.org/TIP26/Public/eventmap.aspx)
 
-  - [FABTECH 2025 Exhibitor List – s36.a2zinc.net/clients/SME/FABTECH2025](https://s36.a2zinc.net/clients/SME/FABTECH2025/Public/Eventmap.aspx)
+- [Air, Space & Cyber Conference 2026 Exhibitor List – events.ntpshow.com/asc2026](https://events.ntpshow.com/asc2026/public/EventMap.aspx)
 
-  - [TechNet Indo-Pacific 2025 Exhibitor List – events.afcea.org/TIP25](https://events.afcea.org/TIP25/Public/eventmap.aspx)
+- [Warfare Symposium 2026 Exhibitor List – events.ntpshow.com/ws2026](https://events.ntpshow.com/ws2026/Public/EventMap.aspx)
 
-  - [Seafood Expo Asia 2025 Exhibitor List – s23.a2zinc.net/clients/diversified/sea2025](https://s23.a2zinc.net/clients/diversified/sea2025/Public/eventmap.aspx)
+- [Greenbuild 2026 Exhibitor List – s23.a2zinc.net/clients/informaconnect/gice2026](https://s23.a2zinc.net/clients/informaconnect/gice2026/Public/EventMap.aspx)
 
-  - [ASCO Annual Meeting 2025 Exhibitor List – events.jspargo.com/ASCO25](https://events.jspargo.com/ASCO25/Public/EventMap.aspx)
+- [FABTECH 2026 Exhibitor List – s36.a2zinc.net/clients/SME/FABTECH2026](https://s36.a2zinc.net/clients/SME/FABTECH2026/Public/Eventmap.aspx)
+
+- [Commodity Classic 2026 Exhibitor List – s15.a2zinc.net/clients/commodityclassic/2026](https://s15.a2zinc.net/clients/commodityclassic/2026/Public/eventmap.aspx)
+
+- [WEST 2026 Exhibitor List – westconference.org/WEST26](https://www.westconference.org/WEST26/Public/eventmap.aspx)
+
+- [HR Tech Europe 2026 Exhibitor List – events.hrtechnologyconference.com/hrteurope2026](https://events.hrtechnologyconference.com/hrteurope2026/Public/eventmap.aspx)
+
+- [HR Tech Europe 2025 Exhibitor List – events.hrtechnologyconference.com/hrteurope2025](https://events.hrtechnologyconference.com/hrteurope2025/Public/eventmap.aspx)
+
+- [Air, Space, & Cyber Conference 2025 Exhibitor List – events.ntpshow.com/asc2025/public](https://events.ntpshow.com/asc2025/public/EventMap.aspx)
+
+- [FABTECH 2025 Exhibitor List – s36.a2zinc.net/clients/SME/FABTECH2025](https://s36.a2zinc.net/clients/SME/FABTECH2025/Public/Eventmap.aspx)
+
+- [TechNet Indo-Pacific 2025 Exhibitor List – events.afcea.org/TIP25](https://events.afcea.org/TIP25/Public/eventmap.aspx)
+
+- [Seafood Expo Asia 2025 Exhibitor List – s23.a2zinc.net/clients/diversified/sea2025](https://s23.a2zinc.net/clients/diversified/sea2025/Public/eventmap.aspx)
+
+- [ASCO Annual Meeting 2025 Exhibitor List – events.jspargo.com/ASCO25](https://events.jspargo.com/ASCO25/Public/EventMap.aspx)
