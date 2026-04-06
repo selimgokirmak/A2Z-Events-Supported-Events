@@ -26,17 +26,17 @@ Supports multiple **A2Z Events** exhibition websites with a consistent HTML stru
 
 - [Map Your Show Exhibitor List Scraper](https://apify.com/skython/map-your-show-exhibitor-list-scraper)
 
-- [Messe Duesseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
+- [Messe Düsseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
 
 - [Reed Expo Exhibitor List Scraper](https://apify.com/skython/reed-expo-exhibitor-list-scraper)
 
-- [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
+- [Messe München Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper V2](https://apify.com/skython/xporience-exhibitor-list-scraper-2)
 
-- [Nuernberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
+- [Nürnberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
 
 - [GSMA MWC Exhibitor List Scraper](https://apify.com/skython/gsma-mwc-exhibitor-list-scraper)
 
@@ -54,6 +54,8 @@ Supports multiple **A2Z Events** exhibition websites with a consistent HTML stru
 
 - [Ungerboeck Exhibitor List Scraper](https://apify.com/skython/ungerboeck-exhibitor-list-scraper)
 
+- [Deutsche Messe Exhibitor List Scraper](https://apify.com/skython/deutsche-messe-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -69,6 +71,14 @@ Supports multiple **A2Z Events** exhibition websites with a consistent HTML stru
 **Note:** *The following partial list includes A2Z Events exhibitor directory URLs and Floor Plan URLs that have been tested so far. Other A2Z Events or different events with the same website structure may also be supported.*
 
 ### Type-1: Event Websites
+
+- [CEDIA Expo/Commercial Integrator Expo 2026 Exhibitor List – cedia2026.smallworldlabs.com](https://cedia2026.smallworldlabs.com/exhibitors)
+
+- [ACCA 2026 Exhibitor List – acca2026.smallworldlabs.com](https://acca2026.smallworldlabs.com/exhibitors)
+
+- [Offshore Technology Conference 2026 Exhibitor List – otc2026.smallworldlabs.com](https://otc2026.smallworldlabs.com/exhibitors)
+
+- [HD Expo 2026 Exhibitor List – hdexpo2026.smallworldlabs.com](https://hdexpo2026.smallworldlabs.com/exhibitors)
 
 - [New York Restaurant Show 2026 Exhibitor List – irfs2026.smallworldlabs.com](https://irfs2026.smallworldlabs.com/exhibitors)
 
@@ -136,6 +146,14 @@ Supports multiple **A2Z Events** exhibition websites with a consistent HTML stru
 
 
 ### Type-2: Floor Plan Websites
+
+- [CEDIA Expo/Commercial Integrator Expo 2026 Exhibitor List – cedia.a2zinc.net/CEDIA2026](https://cedia.a2zinc.net/CEDIA2026/Public/EventMap.aspx)
+
+- [ACCA 2026 Exhibitor List – s36.a2zinc.net/clients/ACCA/acca2026](https://s36.a2zinc.net/clients/ACCA/acca2026//Public/EventMap.aspx)
+
+- [Offshore Technology Conference 2026 Exhibitor List – exhibits.otcnet.org/OTC2026](https://exhibits.otcnet.org/OTC2026/Public/eventmap.aspx)
+
+- [HD Expo 2026 Exhibitor List – hd.a2zinc.net/HDExpo2026](https://hd.a2zinc.net/HDExpo2026/Public/eventmap.aspx)
 
 - [New York Restaurant Show 2026 Exhibitor List – s36.a2zinc.net/clients/GSE/IRFS2026](https://s36.a2zinc.net/clients/GSE/IRFS2026/Public/EventMap.aspx)
 
