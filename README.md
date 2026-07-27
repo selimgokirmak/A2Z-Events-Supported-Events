@@ -72,9 +72,9 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 
 ## Supported A2Z Events Exhibitions (Exhibitor Lists)
 
-- The following partial list includes A2Z Events exhibitor directory URLs and Floor Plan URLs that have been tested so far. Other A2Z Events or different events with the same website structure may also be supported.
+> The following partial list includes A2Z Events exhibitor directory URLs and Floor Plan URLs that have been tested so far. Other A2Z Events or different events with the same website structure may also be supported.
 
-- Some event URLs may have been updated or canceled entirely; please check them before using.
+> Some event URLs may have been updated or canceled entirely; please check them before using.
 
 ### Type-1: Event Websites
 
